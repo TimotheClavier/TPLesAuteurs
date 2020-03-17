@@ -1,0 +1,7 @@
+C:\Users\clavi\source\repos\TPLesAuteurs\TPLesAuteurs\obj\Debug\TPLesAuteurs.csprojAssemblyReference.cache
+C:\Users\clavi\source\repos\TPLesAuteurs\TPLesAuteurs\obj\Debug\TPLesAuteurs.csproj.CoreCompileInputs.cache
+C:\Users\clavi\source\repos\TPLesAuteurs\TPLesAuteurs\bin\Debug\TPLesAuteurs.exe.config
+C:\Users\clavi\source\repos\TPLesAuteurs\TPLesAuteurs\bin\Debug\TPLesAuteurs.exe
+C:\Users\clavi\source\repos\TPLesAuteurs\TPLesAuteurs\bin\Debug\TPLesAuteurs.pdb
+C:\Users\clavi\source\repos\TPLesAuteurs\TPLesAuteurs\obj\Debug\TPLesAuteurs.exe
+C:\Users\clavi\source\repos\TPLesAuteurs\TPLesAuteurs\obj\Debug\TPLesAuteurs.pdb
